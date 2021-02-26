@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "905522138287",
+    "project_id": "garichai-384eb",
+    "storage_bucket": "garichai-384eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905522138287:android:23927d2361e1e00756985a",
+        "android_client_info": {
+          "package_name": "com.example.gari_chai_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905522138287-6ielh9ecmlalibai7cf6u7vd93nd2sat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDthbj7XYpvHBjtTGWOh019kGHcxD8JjDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905522138287-6ielh9ecmlalibai7cf6u7vd93nd2sat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
